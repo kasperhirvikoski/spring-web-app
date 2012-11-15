@@ -15,5 +15,6 @@ mvn archetype:generate -DarchetypeGroupId=com.kytkemo
                        -DarchetypeArtifactId=spring-web-app
                        -DarchetypeVersion=1.0
                        -DarchetypeRepository=local
-                       -DgroupId=com.yourcompany -DartifactId=ProjectName
+                       -DgroupId=com.yourcompany
+		       -DartifactId=ProjectName
 ```
