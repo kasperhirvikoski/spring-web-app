@@ -8,8 +8,8 @@
 
     <groupId>${groupId}</groupId>
     <artifactId>${artifactId}</artifactId>
-    <packaging>war</packaging>
     <version>${version}</version>
+    <packaging>war</packaging>
 
     <name>${artifactId}</name>
     <url>http://maven.apache.org</url>
