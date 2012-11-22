@@ -17,4 +17,5 @@ mvn archetype:generate -DarchetypeGroupId=com.kytkemo
                        -DarchetypeRepository=local
                        -DgroupId=com.yourcompany 
                        -DartifactId=ProjectName
+                       -Dpackage=com.yourcompany.projectname
 ```
