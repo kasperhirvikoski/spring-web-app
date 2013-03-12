@@ -12,7 +12,6 @@
     <packaging>war</packaging>
 
     <name>${artifactId}</name>
-    <url>http://maven.apache.org</url>
 
     <properties>
 
