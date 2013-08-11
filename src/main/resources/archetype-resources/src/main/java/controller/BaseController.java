@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 public class BaseController {
 
     @RequestMapping(method = RequestMethod.GET, value = "*")
-    public String getAll() {
+    public String catchAll() {
 
         return "index.jsp";
     }
