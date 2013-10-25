@@ -5,13 +5,13 @@ package ${package}.controller;
 
 import org.junit.After;
 import org.junit.AfterClass;
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import static org.junit.Assert.*;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = { "file:src/main/webapp/WEB-INF/spring-context.xml",
@@ -33,6 +33,6 @@ public class BaseControllerTest {
     @Test
     public void youShallPass() {
 
-        Assert.assertTrue(true);
+        assertTrue(true);
     }
 }
