@@ -1,6 +1,6 @@
 # spring-web-app
 
-Maven archetype for a Spring Web App (Java 7 + Java EE 6). Utilises web.xml.
+Maven archetype for a Spring Web App (Java 7 + Java EE 7). Utilises web.xml.
 
 ## Install
 
