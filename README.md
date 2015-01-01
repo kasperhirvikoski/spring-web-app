@@ -1,4 +1,5 @@
-# spring-web-app
+spring-web-app
+==============
 
 Maven archetype for a Spring Web App (Java 7 + Java EE 7 + Spring 4.1.4.RELEASE). Utilises web.xml.
 
