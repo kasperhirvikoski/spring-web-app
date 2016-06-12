@@ -1,7 +1,7 @@
 spring-web-app
 ==============
 
-Maven archetype for a Spring web app (Java 8 + Java EE 7 + Spring 4.2.5.RELEASE). Utilises web.xml.
+Maven archetype for a Spring web app (Java 8 + Java EE 7 + Spring 4.3.0.RELEASE). Utilises web.xml.
 
 ## Install
 
